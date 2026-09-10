@@ -104,3 +104,22 @@ print(max)
 
 
 
+
+
+
+# task 9
+
+# Memory bandwidth — data cannot be delivered to the CPU fast enough.
+# Cache misses — data is not in the CPU cache.
+# Huge amount of data — the program has to read a very large array.
+
+
+
+
+
+
+# task 11
+
+
+#When I type `./program`, the operating system finds the program in the current directory. It loads the program into memory and starts it. The CPU executes the program instructions. During execution, the program can use memory, files, or other system resources. Finally, the program produces output, which is displayed in the terminal, and the program finishes.
+
